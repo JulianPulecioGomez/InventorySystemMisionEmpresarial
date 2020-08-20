@@ -21,7 +21,7 @@ A continuación video explicativo: [Video Explicativo](https://www.loom.com/shar
 5. Dirigirse http://localhost/phpmyadmin/ y crear una base de datos vacía.
 6. Descargar el proyecto, se puede realizar mediante git (Requiere la instalación de git en la maquina )
     ```shell
-    $ git clone https://github.com/JulianPulecioGomez/CrudLaravel.git
+    $ git clone https://github.com/JulianPulecioGomez/InventorySystemMisionEmpresarial.git
     ```
    La segunda opción es dar al botón Download ZIP, en "Code" en el area superior derecha.
 7. Dirigirse a la raíz del proyecto usando la terminal, y ejecutar:
